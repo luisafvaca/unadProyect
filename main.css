@@ -233,27 +233,27 @@ img {
 
 .one {
     min-width: 500px;
-    background-image: url("./images/ps.jpg");
+    background-image: url("./utils/images/ps.jpg");
 }
 
 .two {
     min-width: 396px;
-    background-image: url("./images/ai.jpg");
+    background-image: url("./utils/images/ai.jpg");
 }
 
 .three {
     min-width: 396px;
-    background-image: url("./images/atom.png");
+    background-image: url("./utils/images/atom.png");
 }
 
 .four {
     min-width: 502px;
-    background-image: url("./images/github.jpg");
+    background-image: url("./utils/images/github.jpg");
 }
 
 .five {
     min-width: 790px;
-    background-image: url("./images/jira.png");
+    background-image: url("./utils/images/jira.png");
 }
 
 .element-image {
@@ -286,20 +286,20 @@ img {
 }
 
 .article-title-one.wrapp-title .image1{
-    background-image: url("./images/h.png");
+    background-image: url("./utils/images/h.png");
     background-position-x: -15px;
 }
 
 .article-title-one.wrapp-title .image2{
-    background-image: url("./images/t.png");
+    background-image: url("./utils/images/t.png");
 }
 
 .article-title-one.wrapp-title .image3{
-    background-image: url("./images/m.jpeg");
+    background-image: url("./utils/images/m.jpeg");
 }
 
 .article-title-one.wrapp-title .image4{
-    background-image: url("./images/l.png");
+    background-image: url("./utils/images/l.png");
 }
 
 .article-image {
@@ -309,25 +309,25 @@ img {
 }
 
 .article-title-two.wrapp-title .image1{
-    background-image: url("./images/c.gif");
+    background-image: url("./utils/images/c.gif");
     background-position-x: -15px;
 }
 
 .article-title-two.wrapp-title .image2{
-    background-image: url("./images/s.png");
+    background-image: url("./utils/images/s.png");
 }
 
 .article-title-two.wrapp-title .image3{
-    background-image: url("./images/s-big.jpg");
+    background-image: url("./utils/images/s-big.jpg");
 }
 
 .article-title-three.wrapp-title .image1{
-    background-image: url("./images/j.gif");
+    background-image: url("./utils/images/j.gif");
     background-position-x: -15px;
 }
 
 .article-title-three.wrapp-title .image2{
-    background-image: url("./images/s1.jpg");
+    background-image: url("./utils/images/s1.jpg");
 }
 
 .article-paragrahp {
@@ -388,11 +388,11 @@ img {
 }
 
 .first-content-img.first {
-    background-image: url("./images/design-1.png");
+    background-image: url("./utils/images/design-1.png");
 }
 
 .first-content-img.second {
-    background-image: url("./images/design-2.jpg");
+    background-image: url("./utils/images/design-2.jpg");
 }
 
 .second-content-img {
@@ -401,11 +401,11 @@ img {
     background-size: cover;
 }
 .second-content-img.first {
-    background-image: url("./images/design-3.png") 
+    background-image: url("./utils/images/design-3.png") 
 }
 
 .second-content-img.third {
-    background-image: url("./images/design-5.png") 
+    background-image: url("./utils/images/design-5.png") 
 }
 
 .first-content .first-content-img:first-child {
