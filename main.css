@@ -444,7 +444,7 @@ img {
   @keyframes typewriter{
     0{
         width: 0;
-        border-right: 4px solid #c71484;
+        border-right: 0px transparent;
     }
     50%{
         width: 50%;
@@ -462,10 +462,13 @@ img {
 
   @keyframes blinkTextCursor{
     0{
+        border-right: 0px transparent;
+    }
+    1%{
         border-right: 4px solid #c71484;
 
     }
-    100{
+    100%{
         border-right: 4px transparent;
     }
   }
